@@ -1,0 +1,3 @@
+Executed SQL Statement : create database `akademikNaga` 
+Error Number : 1007 
+Error Message: Can't create database 'akademiknaga'; database exists 
